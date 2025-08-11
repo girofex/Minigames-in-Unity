@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a66b55682d5e9341bcd07dc0684a822, type: 3}
   m_Name: Question 1
   m_EditorClassIdentifier: 
-  question: Athena is the greek goddes of what?
+  question: Athena is the greek goddes of...
   answers:
   - War
   - Knowledge
